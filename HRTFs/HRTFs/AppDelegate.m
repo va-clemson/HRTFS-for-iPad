@@ -6,6 +6,7 @@
 //  Copyright (c) 2013 VA. All rights reserved.
 //
 //add by wyh
+//comment by ali
 #import "AppDelegate.h"
 
 @implementation AppDelegate
