@@ -7,7 +7,6 @@
 //
 //add by wyh
 //comment by ali
-//another comment by ali
 #import "AppDelegate.h"
 
 @implementation AppDelegate
